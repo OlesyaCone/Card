@@ -545,6 +545,7 @@ h6 {
   display: flex;
   align-items: center;
   padding: 9px;
+  height: 15px;
 }
 
 .circle {
